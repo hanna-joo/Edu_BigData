@@ -4,4 +4,3 @@
 ## SQL
 ## NLP
 ## 주가예측
-## Project
